@@ -14,7 +14,7 @@ Turning data into meaningful insights that drive smart decisions by using**Pytho
 
 
 
-- 🎓 *B.E. Artificial Intelligence*, MKCE (2023–2027), CGPA: 7.78
+- 🎓 *B.E. Artificial Intelligence*, MKCE (2023–2027), CGPA: 7.75
 - 📈 *Intern @ MoviCloud Labs Pvt Ltd.*  
 - 📊 Skilled in *Python, My SQL, Power BI,Excel, Pandas, Flask, Java,Mongo DB*  
 - 🌐 Portfolio: https://giri-portfolio-24.web.app/
