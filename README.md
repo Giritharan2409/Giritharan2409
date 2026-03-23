@@ -19,6 +19,7 @@ Turning data into meaningful insights that drive smart decisions by using ** BI 
 - 📊 Skilled in *Python, My SQL, Power BI,Excel, Pandas, Flask, Java,Mongo DB, Git & Github *  
 - 🌐 Portfolio: https://giri-portfolio-24.web.app/
 - 📫 Email: **giritharand3@gmail.com**
+- 🖇️ Linked In: https://www.linkedin.com/in/giritharan-d-017379290
  
 <!-- Wave Animation -->
 <img width="3000" src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=100&section=footer"/>
