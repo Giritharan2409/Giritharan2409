@@ -24,7 +24,6 @@ Designing powerful backend solutions and uncovering meaningful patterns from dat
 <!-- Wave Animation -->
 <img width="3000" src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=100&section=footer"/>
 
-<p align="left">Hello World!!</p>
 
 
 
