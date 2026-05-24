@@ -26,6 +26,6 @@ Designing powerful backend solutions and uncovering meaningful patterns from dat
 
 
 
-<img src="https://github.com/Giritharan2409?tab=overview&from=2026-05-01&to=2026-05-24" alt="Snake animation" />
+<img src="https://github.com/Giritharan2409?tab=overview&from=2026-01-01&to=2026-05-24" alt="Snake animation" />
 
 
