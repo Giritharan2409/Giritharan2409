@@ -16,7 +16,7 @@ Designing powerful backend solutions and uncovering meaningful patterns from dat
 
 - 🎓 *B.E. Artificial Intelligence*, MKCE (2023–2027), CGPA: 7.75
 - 📈 *Intern @ MoviCloud Labs Pvt Ltd.*  
-- 📊 Skilled in *Python, My SQL, Power BI,Excel, Pandas, Flask, Java,Mongo DB, Git & Github *  
+- 📊 Skilled in *Java, Python, My SQL, Power BI,Excel, Pandas, Flask, Mongo DB, Git & Github *  
 - 🌐 Portfolio: https://giri-portfolio-24.web.app/
 - 📫 Email: **giritharand3@gmail.com**
 - 🖇️ Linked In: https://www.linkedin.com/in/giritharan-d-017379290
