@@ -32,10 +32,6 @@ Designing powerful backend solutions and uncovering meaningful patterns from dat
 
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Giritharan2409/mGiritharan2409/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Giritharan2409/Giritharan2409/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
 
 
 
