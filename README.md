@@ -32,7 +32,7 @@ Designing powerful backend solutions and uncovering meaningful patterns from dat
 
 
 
-
+![snake dark](https://github.com/Giritharan2409/Giritharan2409/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!-- Wave Animation -->
 <img width="3000" src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=100&section=footer"/>
