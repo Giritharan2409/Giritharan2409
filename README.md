@@ -34,7 +34,7 @@ Designing powerful backend solutions and uncovering meaningful patterns from dat
 ___________________________________________________________________________________________________________________________________________________________________
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giritharan2409&theme=tokyonight" />
+  <img src="https://github-streak-stats.herokuapp.com/?user=Giritharan2409&theme=tokyonight" />
 </p>
 
 
