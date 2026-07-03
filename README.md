@@ -143,9 +143,7 @@
 ⚛️  Next.js            → SSR, API Routes, Full-Stack Apps
 ```
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Giritharan2409&style=flat-square&color=70a5fd" alt="profile views"/>
+<div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
