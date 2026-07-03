@@ -139,13 +139,7 @@
 
 </div>
 
-### 📚 Currently Learning
 
-```
-🧱 System Design      → Scalability, Load Balancing, Caching
-☁️  Cloud Platforms    → Firebase, Deployment Pipelines
-⚛️  Next.js            → SSR, API Routes, Full-Stack Apps
-```
 
 <div allign='centre'>
 
