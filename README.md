@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Giritharan%20D&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Undergraduate%20%7C%20Backend%20Developer%20%7C%20Java%20%C2%B7%20Python%20%C2%B7%20FastAPI&descAlignY=62&descSize=16"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AIML+Undergraduate+%40+M.Kumarasamy+College;Backend+Developer+Intern+%40+MoviCloud+Labs;Java+%7C+Python+%7C+Flask+%7C+FastAPI;Building+REST+APIs+%26+MongoDB+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AIML+Undergraduate+%40+M.Kumarasamy+College;Full-Stack+Developer+Intern+%40+MoviCloud+Labs;Java+%7C+Python+%7C+Flask+%7C+FastAPI;Building+REST+APIs+%26+MongoDB+Systems" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://giri-portfolio-24.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giritharan-d-017379290)
