@@ -10,35 +10,13 @@
 
 </div>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
 
-### 💻 About Me
-
-```java
-class Giritharan {
-    String name = "Giritharan D";
-    String location = "Namakkal, Tamil Nadu, India";
-    String degree = "B.E. Artificial Intelligence & Machine Learning";
-    String college = "M.Kumarasamy College of Engineering";
-
-    String[] stack = {
-        "Java", "Python", "Flask", "FastAPI",
-        "MongoDB", "MySQL", "REST APIs"
-    };
-
-    String[] currentlyLearning = {
-        "Advanced System Design", "Cloud Deployment", "Next.js"
-    };
-
-    String funFact = "Co-authored an IEEE research paper on AI-powered smart pantry systems!";
-
-    String motto() {
-        return "Build it, break it, ship it.";
-    }
-}
-```
-
-<br clear="right"/>
+💻 About Me
+🎓 Final Year B.E. Artificial Intelligence & Machine Learning student at M.Kumarasamy College of Engineering.
+💻 Passionate FullStack Developer with experience in Java, Python, Flask, FastAPI, MongoDB, and MySQL.
+🚀 Interested in building scalable web applications and REST APIs while continuously learning new technologies.
+🌱 I enjoy solving real-world problems and turning ideas into impactful software solutions.
 
 ### 🧰 Tech Stack
 
