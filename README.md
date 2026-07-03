@@ -30,6 +30,18 @@
 </td>
 </tr>
 </table>
+### 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Year | Score |
+|---|---|---|---|
+| B.E. Artificial Intelligence & Machine Learning | M.Kumarasamy College of Engineering, Karur | 2023 – 2027 | CGPA 7.75/10.00 |
+| Higher Secondary (HSC) | Sun Star Higher Secondary School, Namakkal | 2021 – 2023 | 80.6% |
+
+</div>
+
+
 
 
 ### 🧰 Tech Stack
@@ -136,17 +148,6 @@
 | 🐍 | Python for Beginners | Live course certification |
 | 🗄️ | Introduction to SQL | Certification |
 | 🤖 | Machine Learning with Python | Certification |
-
-</div>
-
-### 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Year | Score |
-|---|---|---|---|
-| B.E. Artificial Intelligence & Machine Learning | M.Kumarasamy College of Engineering, Karur | 2023 – 2027 | CGPA 7.75/10.00 |
-| Higher Secondary (HSC) | Sun Star Higher Secondary School, Namakkal | 2021 – 2023 | 80.6% |
 
 </div>
 
