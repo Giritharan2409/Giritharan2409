@@ -10,15 +10,16 @@
 
 </div>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
+<img align="right" alt="Coding GIF" width="420" hspace="20" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDlqbjYxZ3lwdjEyYTc1cWQwbWtwbDFlbzVnajdmdnJvMjFlNml2OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1GEATImIxEXVR79Dhk/giphy.gif" />
 
 ## 💻 About Me
 
-* 🎓 Final Year **B.E. Artificial Intelligence & Machine Learning** student at **M.Kumarasamy College of Engineering**.
-* 💻 Passionate **Full Stack Developer** with experience in **Java, Python, Flask, FastAPI, MongoDB, and MySQL**.
-* 🚀 Interested in building **scalable web applications, REST APIs, and backend solutions** while continuously learning new technologies.
-* 🌱 Enjoy solving real-world problems and turning innovative ideas into impactful software solutions.
+- 🎓 **Final Year B.E. Artificial Intelligence & Machine Learning** student at **M.Kumarasamy College of Engineering**.
+- 💻 Passionate **Full Stack Developer** with experience in **Java, Python, Flask, FastAPI, MongoDB, and MySQL**.
+- 🚀 Interested in building **scalable web applications, REST APIs, and backend solutions** while continuously learning new technologies.
+- 🌱 Enjoy solving real-world problems and turning innovative ideas into impactful software solutions.
 
+<br clear="right"/>
 
 
 ### 🧰 Tech Stack
