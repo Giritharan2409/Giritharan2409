@@ -30,6 +30,7 @@
 </td>
 </tr>
 </table>
+
 ### 🎓 Education
 
 <div align="center">
