@@ -10,7 +10,9 @@
 
 </div>
 
-<img align="right" alt="Coding GIF" width="420" hspace="20" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDlqbjYxZ3lwdjEyYTc1cWQwbWtwbDFlbzVnajdmdnJvMjFlNml2OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1GEATImIxEXVR79Dhk/giphy.gif" />
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ## 💻 About Me
 
@@ -19,7 +21,15 @@
 - 🚀 Interested in building **scalable web applications, REST APIs, and backend solutions** while continuously learning new technologies.
 - 🌱 Enjoy solving real-world problems and turning innovative ideas into impactful software solutions.
 
-<br clear="right"/>
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDlqbjYxZ3lwdjEyYTc1cWQwbWtwbDFlbzVnajdmdnJvMjFlNml2OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1GEATImIxEXVR79Dhk/giphy.gif" width="100%" alt="Coding GIF"/>
+
+</td>
+</tr>
+</table>
 
 
 ### 🧰 Tech Stack
